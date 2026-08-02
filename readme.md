@@ -73,6 +73,15 @@ The CNN model consists of:
 | Epochs | 5 |
 | Optimizer | Adam |
 | Loss Function | Binary Crossentropy |
+## 📈 Model Performance
+
+### Accuracy Graph
+
+![Accuracy Graph](images/accuracy_graph.png)
+
+### Loss Graph
+
+![Loss Graph](images/loss_graph.png)
 
 ---
 
