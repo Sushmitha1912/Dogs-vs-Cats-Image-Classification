@@ -77,11 +77,15 @@ The CNN model consists of:
 
 ### Accuracy Graph
 
-![Accuracy Graph](images/accuracy_graph.png)
+![Accuracy Graph](AccuracyVSValidation plotting.png)
 
 ### Loss Graph
 
-![Loss Graph](images/loss_graph.png)
+![Loss Graph](Training vs validation loss.png)
+
+### Final Accuracy
+
+![Final Accuracy](Final Accuracy.png)
 
 ---
 
