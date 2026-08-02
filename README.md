@@ -75,11 +75,17 @@ The CNN model consists of:
 | Loss Function | Binary Crossentropy |
 ## 📈 Model Performance
 
-![Accuracy Graph](AccuracyVSValidation%20plotting.png)
+### Accuracy Graph
 
-![Loss Graph](Training%20vs%20validation%20loss.png)
+![Accuracy Graph](accuracy_graph.png)
 
-![Final Accuracy](Final%20Accuracy.png)
+### Loss Graph
+
+![Loss Graph](loss_graph.png)
+
+### Final Accuracy
+
+![Final Accuracy](final_accuracy.png)
 
 ---
 
